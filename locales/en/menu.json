@@ -1,0 +1,12 @@
+{
+  "external_links": "External Links",
+  "discord": "Discord:",
+  "discord_description": "Join the Discord server to join the conversation: <a href=\"{{url}}\" target=\"_blank\">{{url}}</a>",
+  "github": "GitHub",
+  "github_description": "Help make Pokeclicker even better! Contribute to the project by sharing your ideas on our GitHub: <a href=\"{{url}}\" target=\"_blank\">{{url}}</a>",
+  "subreddit": "Subreddit:",
+  "subreddit_description": "Check out some of the trending posts from the PokéClicker community: <a href=\"{{url}}\" target=\"_blank\">{{url}}</a>",
+  "wiki": "Wiki:",
+  "wiki_description": "Check out the community wiki to learn more information about PokéClicker: <a href=\"{{url}}\" target=\"_blank\">{{url}}/</a>",
+  "close_modal": "Close"
+}
